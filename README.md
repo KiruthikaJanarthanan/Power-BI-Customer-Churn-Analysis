@@ -14,7 +14,8 @@ As a part of my virtual internship with PwC Switzerland, I was provided with a d
 
 - **Data transformation** was performed in Power Query, and the dataset was loaded into Microsoft Power BI Desktop for modeling.
 - The dataset consists of **23 columns and 7,043 rows** under the table name **Customer Churn Dataset**.
-- **Data Cleaning** steps:
+- **Data Cleaning steps**:
+- few steps include
     - Standardizing response values in the certain columns.
     - Added a new column **Loyalty**
     
