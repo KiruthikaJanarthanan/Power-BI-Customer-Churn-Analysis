@@ -2,13 +2,11 @@
 
 This report analyzes customer churn trends and identifies key factors driving customer attrition. The objective is to enhance retention strategies and reduce revenue loss.
 
+[View Dashboard here](https://app.powerbi.com/view?r=eyJrIjoiOWU2Y2EwNmMtYTNmZS00MjY1LTk5YWEtNTM1NGU3YzdjY2E2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
 ### **Data collection:**
 
-As a part of my virtual internship with PwC Switzerland, I was provided with a dataset to complete this project.
-
-[view dataset here]
-[02 Churn-Dataset.xlsx](https://github.com/user-attachments/files/18709307/02.Churn-Dataset.xlsx)
-
+As a part of my virtual internship with PwC Switzerland, I was provided with a dataset to complete this project
 
 ### **Data  Preparation and transformation:**
 
